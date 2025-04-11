@@ -5,7 +5,7 @@ Release/
 x64
 .vs
 *.exe
-
+ttt01.txt
 # !是不忽略的意思
 !*.sln  
 !*.vcxproj
@@ -14,7 +14,8 @@ x64
 #忽略所有.user结尾的文件
 *.user
 
-test.txt
+students.json
+task.json
 game.txt
 
 node_modules
